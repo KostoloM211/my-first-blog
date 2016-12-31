@@ -25,7 +25,7 @@ SECRET_KEY = 'bi-ukvt!k^*d+-w$9n_&#25#@lz9e^3s69r3i$jhlpkq(!m*6$'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['kosta3ov.pythonanywhere.com']
 
 
 # Application definition
